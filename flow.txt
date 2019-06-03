@@ -10,38 +10,48 @@ AD5
 CE2
 EB3
 AE7
-Please select the option you want to add
+Please select an option
 1.Find Distance From Point
 2.Shortest Path
 3.Find Shortest Path
 4.Exit
 1
-Enter the Route For Example: 'A' to 'B' to 'C' as 'ABC'
+Enter the Route To Find If It Exists In Input Graph For Example: 'A' to 'B' to 'C' as 'ABC'
+AED
+NO SUCH ROUTE
+Please select an option
+1.Find Availablity Of Route
+2.Find Shortest Distance
+3.Find Shortest Path
+4.Exit
+1
+Enter the Route To Find If It Exists In Input Graph For Example: 'A' to 'B' to 'C' as 'ABC'
 ABC
 9
-Please select the option you want to add
-1.Find Distance From Point
-2.Shortest Path
+Please select an option
+1.Find Availablity Of Route
+2.Find Shortest Distance
 3.Find Shortest Path
 4.Exit
 2
-Enter the points you wish to travel
+Enter the point you wish to find the shortest distance
 For Example : If you wish to travel from 'A' to 'B' the give input as 'AB'
 AC
 Shortest Distance :9.0
-Please select the option you want to add
+Please select an option
 1.Find Distance From Point
 2.Shortest Path
 3.Find Shortest Path
 4.Exit
 3
-Enter the Route you wish to travel
+Enter the Route you wish to find the shortest path
 For Example : If you wish to travel from 'A' to 'B' the give input as 'AB'
 AD
 [A, D]
-Please select the option you want to add
+Please select an option
 1.Find Distance From Point
 2.Shortest Path
 3.Find Shortest Path
 4.Exit
 4
+Exiting the application..
